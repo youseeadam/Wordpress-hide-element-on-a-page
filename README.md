@@ -1,0 +1,1 @@
+# Wordpress-hide-element-on-a-page
